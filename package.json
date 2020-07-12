@@ -2,12 +2,12 @@
 	"name": "jimni-addon-manager",
 	"productName": "jimni addon manager",
 	"version": "0.0.1",
-	"description": "My mathematical app",
+	"description": "An addon manager for World of Warcraft.",
 	"license": "MIT",
 	"repository": "bitobrian/jimni-addon-manager",
 	"author": {
 		"name": "Brian Donaldson",
-		"email": "nairbsd@gmail.com",
+		"email": "brian@bitobrian.com",
 		"url": "https://www.bitobrian.com"
 	},
 	"scripts": {
