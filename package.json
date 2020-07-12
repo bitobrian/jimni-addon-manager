@@ -8,7 +8,7 @@
 	"author": {
 		"name": "Brian Donaldson",
 		"email": "nairbsd@gmail.com",
-		"url": "bitobrian.com"
+		"url": "https://www.bitobrian.com"
 	},
 	"scripts": {
 		"postinstall": "electron-builder install-app-deps",
